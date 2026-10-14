@@ -63,7 +63,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "s_muhammady91"
+  instagram        : # Username
   lastfm           : # Username
   linkedin         : "s-muhammady"
   mastodon         : # URL
@@ -73,12 +73,12 @@ author:
   steam            : # Username
   telegram         : # Username
   tumblr           : # Username
-  twitter          : "s_muhammady91"
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "s_muhammady91"
+  youtube          : # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
