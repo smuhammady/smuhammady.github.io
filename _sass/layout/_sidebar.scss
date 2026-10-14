@@ -17,12 +17,17 @@
     margin-top: 1em;
   }
 
-  @media screen and (min-width: $sidebar-screen-min-width) {
-    height: 200vh;
-    overflow-y: auto;               // Add scrollbar if the sidebar is too long
-    position: fixed;
-    padding-top: $masthead-height;
-  }
+ @media screen and (min-width: $sidebar-screen-min-width) {
+  position: fixed;
+  top: $masthead-height;
+  height: calc(100vh - #{$masthead-height});
+  max-height: calc(100vh - #{$masthead-height});
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-top: 0;
+  padding-bottom: 1rem;
+  box-sizing: border-box;
+}
 
   @include breakpoint($large) {
     @include span(2 of 12);
