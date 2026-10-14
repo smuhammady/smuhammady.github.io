@@ -25,7 +25,6 @@ author:
   # Biographic information
   avatar           : "260715.png"
   name             : "Dr. Shibghatullah Muhammady"
-  # pronouns         : # example: "she/her"  
   bio              : "Research Scientist in Computational Materials Science, Solid State Chemistry"
   location         : "Wako, Saitama"
   employer         : "RIKEN"
@@ -64,7 +63,7 @@ author:
  # goodreads        : # Username
  # google_plus      : # Username
  # keybase          : # Username
-  instagram        : @s_muhammady91
+  instagram        : s_muhammady91
  # lastfm           : # Username
   linkedin         : # s-muhammady
  # mastodon         : # URL
@@ -72,14 +71,14 @@ author:
  # pinterest        : # Username
  # soundcloud       : # Username
  # steam            : # Username
-  telegram         : @s_muhammady91
+  telegram         : s_muhammady91
  # tumblr           : # Username
  # twitter          : @s_muhammady91
  # vine             : # Username
  # weibo            : # Username
  # wikipedia        : # Username
  # xing             : # Username
-  youtube          : @s_muhammady91
+  youtube          : s_muhammady91
  # zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
