@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Dr. Shibghatullah Muhammady"
 title_separator          : "-"
 name                     : &name "Shibghatullah Muhammady"
@@ -137,7 +137,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @s_muhammady91
+  username               : "s_muhammady91"
 facebook:
   username               :
   app_id                 :
