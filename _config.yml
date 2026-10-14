@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Shibghatullah Muhammady | Research Scientist"
+title                    : "Dr. Shibghatullah Muhammady"
 title_separator          : "-"
 name                     : &name "Shibghatullah Muhammady"
 description              : &description "Research Scientist in Computational Materials Science"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -57,7 +57,7 @@ author:
 
   # Social media
  # artstation       : # Username
-  bluesky          : "@muhammady.bsky.social" # Replace this with you Bluesky username
+  bluesky          : "muhammady.bsky.social" # Replace this with you Bluesky username
  # facebook         : # Username
  # flickr           : # Username
  # foursquare       : # Username
